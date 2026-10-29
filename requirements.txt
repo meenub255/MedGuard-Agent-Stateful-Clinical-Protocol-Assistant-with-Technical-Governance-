@@ -1,0 +1,7 @@
+langgraph
+langchain-openai
+langchain-tavily
+chromadb
+streamlit
+playwright
+pillow
